@@ -1,6 +1,6 @@
 <p align=center>
 
-mdfstudioAPI is an API for reading asam mdf file and converting data to csv file format, including LGPL 3.0 open source library (asammdf-5.21.0)
+mdfstudioAPI is an API for reading asam mdf file and converting data to csv file format, including LGPL 3.0 open source library (asammdf-6.1.2)
 
 
 </p>
